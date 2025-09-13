@@ -54,5 +54,5 @@ supabase       # SQL migrations, docs, function stubs
 ```
 
 ## Notes
-- This MVP is deliberately compact and readable. It aims to “just work” once Supabase URL + anon key are set, without any third-party billing.
+- This MVP is deliberately compact and readable. It aims to once Supabase URL + anon key are set, without any third-party billing.
 - Storage & cron policies are minimal for demo; adapt before production.
